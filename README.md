@@ -39,7 +39,7 @@ Live literature retrieval from ArXiv & PubMed · FastAPI + Redis + React
 ## 💼 Experience
 
 - **Data Analytics Associate** @ Bidstream Advertising *(Sep 2025 – Present)*  
-  Looker Studio dashboards for UAE Ministry of Defence, KFC, National Foods & more
+ Delivering data analytics for MNCs & government clients | UAE Ministry of Defence · Suzuki Motors · National Foods
 
 - **Data Analyst Intern** @ Systems Limited *(Jul – Aug 2025)*  
   Power BI · SSMS · ETL · BAT dashboard project
@@ -48,5 +48,5 @@ Live literature retrieval from ArXiv & PubMed · FastAPI + Redis + React
 
 ## 📬 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-link)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/syed-rayyan-amir-8115212b9/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:syedrayyanamir@gmail.com)
