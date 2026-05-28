@@ -30,7 +30,7 @@ with RAG, self-improving feedback loops, and live literature retrieval from ArXi
 7-node stateful LangGraph DAG · RAG with pgvector · Self-improving feedback loop  
 Live literature retrieval from ArXiv & PubMed · FastAPI + Redis + React
 
-### ⚡ FreelanceFlow — Multi-Agent Financial Intelligence
+### ⚡ FreelanceFlow — Multi-Agent Financial Intelligence(https://github.com/layyana-junaid/Freelance_Flow)
 7-agent parallel async pipeline · Live WebSocket streaming · Conflict resolution agent  
 **1st Place @ NASTAP Agentic AI Hackathon, Karachi**
 
