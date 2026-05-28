@@ -1,3 +1,5 @@
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=7C3AED&width=435&lines=Agentic+AI+Developer;Data+Analyst;LangGraph+%7C+RAG+%7C+LLMs)](https://git.io/typing-svg)
+
 # Hi, I'm Rayyan 👋
 
 **Agentic AI Developer & Data Analyst** based in Karachi, Pakistan
